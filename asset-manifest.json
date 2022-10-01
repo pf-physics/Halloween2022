@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Halloween2022/static/css/main.a92b2f2e.css",
-    "main.js": "/Halloween2022/static/js/main.882af87c.js",
+    "main.js": "/Halloween2022/static/js/main.b5e58341.js",
     "static/js/787.d3df6f31.chunk.js": "/Halloween2022/static/js/787.d3df6f31.chunk.js",
     "index.html": "/Halloween2022/index.html",
     "main.a92b2f2e.css.map": "/Halloween2022/static/css/main.a92b2f2e.css.map",
-    "main.882af87c.js.map": "/Halloween2022/static/js/main.882af87c.js.map",
+    "main.b5e58341.js.map": "/Halloween2022/static/js/main.b5e58341.js.map",
     "787.d3df6f31.chunk.js.map": "/Halloween2022/static/js/787.d3df6f31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a92b2f2e.css",
-    "static/js/main.882af87c.js"
+    "static/js/main.b5e58341.js"
   ]
 }
