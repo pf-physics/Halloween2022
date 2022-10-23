@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Halloween2022/static/css/main.a871a389.css",
-    "main.js": "/Halloween2022/static/js/main.2f92e4b7.js",
+    "main.js": "/Halloween2022/static/js/main.f1e961fe.js",
     "static/js/787.d3df6f31.chunk.js": "/Halloween2022/static/js/787.d3df6f31.chunk.js",
     "static/media/itsy.mp3": "/Halloween2022/static/media/itsy.e7fa83c3518f65417422.mp3",
     "static/media/chemist.mp3": "/Halloween2022/static/media/chemist.a9e2e423ec7bf413e4f8.mp3",
@@ -30,11 +30,11 @@
     "static/media/spider6.jpg": "/Halloween2022/static/media/spider6.11658acce82a40cebce0.jpg",
     "index.html": "/Halloween2022/index.html",
     "main.a871a389.css.map": "/Halloween2022/static/css/main.a871a389.css.map",
-    "main.2f92e4b7.js.map": "/Halloween2022/static/js/main.2f92e4b7.js.map",
+    "main.f1e961fe.js.map": "/Halloween2022/static/js/main.f1e961fe.js.map",
     "787.d3df6f31.chunk.js.map": "/Halloween2022/static/js/787.d3df6f31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a871a389.css",
-    "static/js/main.2f92e4b7.js"
+    "static/js/main.f1e961fe.js"
   ]
 }
