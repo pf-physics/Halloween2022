@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/Halloween2022/static/css/main.537cbd91.css",
-    "main.js": "/Halloween2022/static/js/main.2b94ecaf.js",
+    "main.css": "/Halloween2022/static/css/main.1edcd4fc.css",
+    "main.js": "/Halloween2022/static/js/main.2cca8e7b.js",
     "static/js/787.d3df6f31.chunk.js": "/Halloween2022/static/js/787.d3df6f31.chunk.js",
+    "static/media/fakeParty.mp3": "/Halloween2022/static/media/fakeParty.90340bc48bc946eb6afb.mp3",
+    "static/media/fakeParty3.mp3": "/Halloween2022/static/media/fakeParty3.12681d0cf31be6790c1d.mp3",
     "static/media/itsy.mp3": "/Halloween2022/static/media/itsy.e7fa83c3518f65417422.mp3",
     "static/media/chemist.mp3": "/Halloween2022/static/media/chemist.a9e2e423ec7bf413e4f8.mp3",
+    "static/media/badGuy.mp3": "/Halloween2022/static/media/badGuy.b6c77fa3f2847fcdef1d.mp3",
     "static/media/spiderRune.mp3": "/Halloween2022/static/media/spiderRune.a5f8cd0602940a9e19c4.mp3",
     "static/media/ghost_craft.png": "/Halloween2022/static/media/ghost_craft.9e6a7fed3a59ca66d9d2.png",
+    "static/media/backstory2.mp3": "/Halloween2022/static/media/backstory2.b32cebc367209645c4cf.mp3",
     "static/media/knock.wav": "/Halloween2022/static/media/knock.64275a77f0bd60e3fffa.wav",
     "static/media/summoning.mp3": "/Halloween2022/static/media/summoning.e7734f00f6c69a044954.mp3",
     "static/media/intro1.mp3": "/Halloween2022/static/media/intro1.3dc89f94945d55ef96b6.mp3",
+    "static/media/bossFight.mp3": "/Halloween2022/static/media/bossFight.d50a79eed9084f5b3d87.mp3",
     "static/media/pumpkinIntro.mp3": "/Halloween2022/static/media/pumpkinIntro.f563eae1879d1ebce1b8.mp3",
     "static/media/witches.mp3": "/Halloween2022/static/media/witches.6797f3d7a99106b8f57f.mp3",
     "static/media/fast.mp3": "/Halloween2022/static/media/fast.248d20c2a6ff8b71587e.mp3",
@@ -18,6 +23,7 @@
     "static/media/backstory.mp3": "/Halloween2022/static/media/backstory.6dad714fa5f4b56fa831.mp3",
     "static/media/merchant.mp3": "/Halloween2022/static/media/merchant.cf4c3981993fa076b09d.mp3",
     "static/media/pumpkinHead2.mp3": "/Halloween2022/static/media/pumpkinHead2.94422186c854664f399a.mp3",
+    "static/media/evilGuy.png": "/Halloween2022/static/media/evilGuy.a8ef5ec8dd90ba250a9f.png",
     "static/media/ratMusic.mp3": "/Halloween2022/static/media/ratMusic.dbde4152f728c0160581.mp3",
     "static/media/pumpkinHead.mp3": "/Halloween2022/static/media/pumpkinHead.fce9af018bfb9faa07bb.mp3",
     "static/media/blood.wav": "/Halloween2022/static/media/blood.d3b9bea930182b3af1f1.wav",
@@ -28,9 +34,12 @@
     "static/media/ghosts.png": "/Halloween2022/static/media/ghosts.7308c94833721efc1765.png",
     "static/media/door_open.mp3": "/Halloween2022/static/media/door_open.43bb18b39504fe2a9ff6.mp3",
     "static/media/wolf.jpg": "/Halloween2022/static/media/wolf.cba03889828310179309.jpg",
+    "static/media/pepper.png": "/Halloween2022/static/media/pepper.a339c689eff23ac2f680.png",
     "static/media/skeleton-temp.jpg": "/Halloween2022/static/media/skeleton-temp.db683f09951334267716.jpg",
     "static/media/black_door.png": "/Halloween2022/static/media/black_door.bcb254ec6c91f51cb547.png",
+    "static/media/candles.jpg": "/Halloween2022/static/media/candles.89cf54aec04bc13ebdc0.jpg",
     "static/media/moon.jpg": "/Halloween2022/static/media/moon.a80bfc15b7a7ff530882.jpg",
+    "static/media/endImg.jpg": "/Halloween2022/static/media/endImg.4fa221bfbfab4e3102c4.jpg",
     "static/media/witch3.jpg": "/Halloween2022/static/media/witch3.5b5a2383b136b0cf4f39.jpg",
     "static/media/cauldron.jpg": "/Halloween2022/static/media/cauldron.40cc5abcfe0eba2ac689.jpg",
     "static/media/howl1.png": "/Halloween2022/static/media/howl1.7eeed9af096e4361c6d5.png",
@@ -38,12 +47,12 @@
     "static/media/howl2.png": "/Halloween2022/static/media/howl2.ee717c30e27274f7715c.png",
     "static/media/spider6.jpg": "/Halloween2022/static/media/spider6.11658acce82a40cebce0.jpg",
     "index.html": "/Halloween2022/index.html",
-    "main.537cbd91.css.map": "/Halloween2022/static/css/main.537cbd91.css.map",
-    "main.2b94ecaf.js.map": "/Halloween2022/static/js/main.2b94ecaf.js.map",
+    "main.1edcd4fc.css.map": "/Halloween2022/static/css/main.1edcd4fc.css.map",
+    "main.2cca8e7b.js.map": "/Halloween2022/static/js/main.2cca8e7b.js.map",
     "787.d3df6f31.chunk.js.map": "/Halloween2022/static/js/787.d3df6f31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.537cbd91.css",
-    "static/js/main.2b94ecaf.js"
+    "static/css/main.1edcd4fc.css",
+    "static/js/main.2cca8e7b.js"
   ]
 }
